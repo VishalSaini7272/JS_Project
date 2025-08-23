@@ -1,0 +1,54 @@
+
+ div{
+    background-color: antiquewhite;
+    height: 15rem;
+    width: 40rem;
+    display: flex;
+    justify-content: center;
+    margin-left:  20rem;
+    margin-top: 3rem; 
+ border-radius: 1rem; 
+}  
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 5px;
+}
+
+p{
+    color : #f4540f;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+button{
+    height: 5rem;
+    width: 5rem;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left:20px;
+margin-top: 5rem;
+font-size: 30px;
+align-items: center;
+cursor: pointer;
+}
+
+#btn1{
+    background-color: #d5cfe1;
+}
+#btn2{
+    background-color: #d2cadf;
+}
+#btn3{
+    background-color: #cec5dc;
+}
+#btn4{
+    background-color: #c6bbd6;
+}
+#btn5{
+    background-color: #b6a6ca;
+}
