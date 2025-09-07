@@ -1,0 +1,26 @@
+button{
+    background-color: aqua;
+    height: 20%;
+    width: 20%;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 15px;
+}
+
+.dark{                                    /*use the class of dark mode and add the classList on JS file. */ 
+    background-color: black;
+    color: white;
+}
+
+.light{                                    /*use the class of light mode and add the classList on JS file. */ 
+    background-color: white;
+    color: black;
+}
+
+p{
+font-size: 50px;
+text-align: center;
+}
